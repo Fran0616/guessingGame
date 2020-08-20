@@ -8,6 +8,7 @@ This games the user has to pick a secret number set by a magician. The user has 
 
 **Test Data**
 
+```
 Magecian Enter a number: 2
 
 +=========================================+
@@ -40,3 +41,4 @@ Ha ha! You're stuck in my loop!
 Try again: 2
 
 Well done, muggle! You are free now. Thanks for playing!
+```
