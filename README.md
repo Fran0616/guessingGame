@@ -49,7 +49,7 @@ Try again: 2
 Well done, muggle! You are free now. Thanks for playing!
 ```
 
-Source Code
+**Source Code**
 
 Click [here](https://github.com/Fran0616/guessingGame/blob/master/guessingGame.py) to view the code
 ```
