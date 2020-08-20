@@ -21,7 +21,7 @@ Magecian Enter a number: 2
 
 | picked for you.                         |
 
-| So, what is the secret number?   	      |
+| So, what is the secret number?   	     |
 
 +=========================================+
 
