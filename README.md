@@ -51,7 +51,7 @@ Well done, muggle! You are free now. Thanks for playing!
 
 Source Code
 
-Click [here]() to view the code
+Click [here](https://github.com/Fran0616/guessingGame/blob/master/guessingGame.py) to view the code
 ```
 #this games the user has to pick a secret number set by a magician. The user has to guess the correct number or he/she will be stuck in a forever loop.
 #good luck and have fun. 
