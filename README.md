@@ -4,12 +4,18 @@
 
 This games the user has to pick a secret number set by a magician. The user has to guess the correct number or he/she will be stuck in a forever loop.
 
+**Software Overview**
 
+1. The code will prompt the magiaciant to enter the secret number. 
+2. The muggle will attempt to guess the secret number.
+3. The muggle will be promted to try again if he/she guess the secret number wrong
+   - The game will end when the muggle guess the secret number correctly
+ 
 
 **Test Data**
 
 ```
-Magecian Enter a number: 2
+Magician Enter a number: 2
 
 +=========================================+
 
